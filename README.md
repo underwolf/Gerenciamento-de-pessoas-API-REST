@@ -1,2 +1,2 @@
-# Gerenciamento-de-pessoas-API-REST
-API para gerenciamento de pessoas usando REST
+# Gerenciamento de pessoas utilizando API REST e springboot
+Projeto feito durante o bootcamp do Santander
